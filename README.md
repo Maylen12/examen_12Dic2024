@@ -9,7 +9,7 @@
    * Se incluye una planilla con Ventas de una empresa tecnologica que utiliza el marketing digital como estrategia comercial.
    
    ### Se adjunta el Manual del plan de marketing digital
-   [[Manual del Plan de Marketing digital](https://1drv.ms/w/s!AnT057KY7RNDg3WPWWmc7YcQfU6f)]
+   [[Manual del Plan de Marketing digital](https://docs.google.com/document/d/1w52zG1lW4yaKyPwJo3BvsZX4UyzOA3nbQeBoDxp_tdk/edit?usp=sharing)]
    
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan
    [[Ventas Anuales Tecnológicas](https://docs.google.com/spreadsheets/d/1aiUeXscB2hudnP0M3034roFDNemOB_LjXWyoUNOUFmo/edit?usp=sharing)]
